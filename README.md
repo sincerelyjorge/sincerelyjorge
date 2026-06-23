@@ -18,6 +18,8 @@ I work at the intersection of product design, AI-assisted development, and early
 
 A product-building OS for AI builders moving from prototype to real product.
 
+![Ship Something Dashboard](./assets/ship-something-dashboard.png)
+
 Focus areas:
 - Product definition
 - PRDs and technical specs
