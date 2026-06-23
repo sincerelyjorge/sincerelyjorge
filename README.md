@@ -29,7 +29,7 @@ Focus areas:
 
 A pay-per-use PDF utility designed as an alternative to subscription-heavy PDF tools.
 
-![Dollar PDF](./assets/dollar-pdf.png)
+![Dollar PDF Homepage](./assets/dollar-pdf.png)
 
 Focus areas:
 - Conversion flows
